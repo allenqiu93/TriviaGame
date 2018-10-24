@@ -37,3 +37,23 @@ html{
     margin-left:40%;
     margin-top:10%;
 }
+#question{
+    font-size: 40px;
+    text-align:center;
+    margin-top:8%;
+}
+#a{
+    font-size: 30px;
+    text-align:center;
+    margin-top:8%;
+}
+#b{
+    font-size: 30px;
+    text-align:center;
+    margin-top:8%;
+}
+#c{
+    font-size: 30px;
+    text-align:center;
+    margin-top:8%;
+}
